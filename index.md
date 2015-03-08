@@ -1,0 +1,35 @@
+---
+layout: default
+title: 
+excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+search_omit: true
+---
+That’s me  
+I am a  
+woman.  
+I have a body.  
+My body  
+‘is a social  
+construction  
+rather than  
+a naturally  
+given  
+datum.’  
+
+Hi, I am Giulia Tomasello designer and researcher based in London 
+and currently [Ma Material Futures](http://www.materialfutures.com/) in Central Saint Martins.
+Born in Italy I graduated at NABA, in product design
+I lived for one year in Netherlands 
+studying social design at Design Academy of Eindhoven.
+As a designer I am looking to raise awareness, to expose assumptions, 
+to provoke actions and to spark critical debates. 
+My aim is to design alternative scenarios, acting as a creative thinker. 
+I consider materiality as a tool to question and communicate the boundaries 
+between technology and us. 
+Since [RUAH](http://blog.arduino.cc/2013/04/27/an-interactive-corset-teaching-you-how-to-breath/), my BA graduation project I started a continuous research on [wearable future](https://plus.google.com/u/0/+GiuliaTomasellogi/posts) and smart materials using an open source philosophy and a trans-disciplinary design approach.
+
+In 2014 [ALGI](http://www.zerocarati.it/?p=524) was born with the intention to use technology for human needs, 
+using design to improve people daily lives.
+ALGI is a collaboration between an architect and a designer [FHEEL](http://algi-fheel.tumblr.com/) is our first wearable project.
+
+[**_Agenda_**](agenda.html)
