@@ -6,7 +6,7 @@ locale: en_US
 description: 
 logo: j.jpg
 search: true
-url: http://localhost:4000
+url: http://giuliatomasello.github.io
 
 # Jekyll configuration
 
