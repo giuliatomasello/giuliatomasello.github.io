@@ -5,7 +5,7 @@ header: Giulia Tomasello
 locale: en_US
 description: 
 logo: j.jpg
-search: true
+search: false
 url: http://giuliatomasello.github.io
 
 # Jekyll configuration
