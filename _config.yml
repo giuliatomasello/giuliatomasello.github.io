@@ -1,12 +1,12 @@
 # Site wide configuration
 
 title: gi
-header: Giulia Tomasello
+header: gi
 locale: en_US
 description: 
 logo: j.jpg
 search: false
-url: http://giuliatomasello.github.io
+url: http://giuliatomasello.gihub.io
 
 # Jekyll configuration
 
@@ -32,8 +32,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Giulia Tomasello
-  avatar: bio-photo.jpg
+  name: gi
+  avatar: j.jpg
   email: tomasello.gi@gmail.com
   disqus-shortname:
   twitter: gitomasello
