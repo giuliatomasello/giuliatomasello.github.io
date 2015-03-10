@@ -57,9 +57,8 @@ span + .entry-title {
 
 .entry-title {
 	font-family: $alt-font;
-	font-style: italic;
 	@include font-size(36,yes,36);
-	font-weight: 400;
+	font-weight: 600;
 	line-height: 1;
 	letter-spacing: -3px;
 	a {
@@ -70,7 +69,7 @@ span + .entry-title {
 		@include font-size(52,yes,54);
 	}
 	@include media($large) {
-		@include font-size(68,yes,72);
+		@include font-size(38,yes,42);
 	}
 }
 
