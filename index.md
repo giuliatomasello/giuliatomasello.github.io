@@ -26,10 +26,12 @@ to provoke actions and to spark critical debates.
 My aim is to design alternative scenarios, acting as a creative thinker. 
 I consider materiality as a tool to question and communicate the boundaries 
 between technology and us. 
-Since [RUAH](http://blog.arduino.cc/2013/04/27/an-interactive-corset-teaching-you-how-to-breath/), my BA graduation project I started a continuous research on [wearable future](https://plus.google.com/u/0/+GiuliaTomasellogi/posts) and smart materials using an open source philosophy and a trans-disciplinary design approach.
+Since [RUAH](http://blog.arduino.cc/2013/04/27/an-interactive-corset-teaching-you-how-to-breath/), my BA graduation project I started a continuous research on wearable future and smart materials using an open source philosophy and a trans-disciplinary design approach.
 
-In 2014 [ALGI](http://www.zerocarati.it/?p=524) was born with the intention to use technology for human needs, 
-using design to improve people daily lives.
-ALGI is a collaboration between an architect and a designer [FHEEL](http://algi-fheel.tumblr.com/) is our first wearable project.
+From October 2015 I am developing Bio Conductive Skin - a project that explores
+the possibilities of creating biomaterials to propose an alternative to our electronic components.  
 
-[**_Agenda_**](agenda.html)
+If - Technology is getting closer and closer to our skin.  
+Can technology born, grow and die as human?  
+
+[**_wip _ bio conductive skin_**](http://cargocollective.com/gi)
