@@ -34,4 +34,4 @@ the possibilities of creating biomaterials to propose an alternative to our elec
 If - Technology is getting closer and closer to our skin.  
 Can technology born, grow and die as human?  
 
-[**_wip _ bio conductive skin_**](http://cargocollective.com/gi)
+<a href="http://cargocollective.com/gi" target="_blank">**_wip _ bio conductive skin_**</a>
