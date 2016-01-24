@@ -28,10 +28,13 @@ I consider materiality as a tool to question and communicate the boundaries
 between technology and us. 
 Since [RUAH](http://blog.arduino.cc/2013/04/27/an-interactive-corset-teaching-you-how-to-breath/), my BA graduation project I started a continuous research on wearable future and smart materials using an open source philosophy and a trans-disciplinary design approach.
 
-From October 2015 I am developing Bio Conductive Skin - a project that explores
-the possibilities of creating biomaterials to propose an alternative to our electronic components.  
+From October 2015 I am developing Bio Conductive Skin - a project that explores 
+the possibilities of creating biomaterials and proposes alternative 
+applications to our current electronic components.  
 
 If - Technology is getting closer and closer to our skin.  
-Can technology born, grow and die as human?  
+How can technology be more human?  
 
-<a href="http://cargocollective.com/gi" target="_blank">**_wip _ bio conductive skin_**</a>
+Follow my work in progress on cargo
+
+<a href="http://cargocollective.com/gi" target="_blank">**_Bio Conductive Skin_**</a>
