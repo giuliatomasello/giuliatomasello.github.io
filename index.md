@@ -31,7 +31,7 @@ Since [RUAH](http://blog.arduino.cc/2013/04/27/an-interactive-corset-teaching-yo
 These last two years I've been experimenting and growing living organisms.
 
 2015/2016 [Bio Conductive Skin](http://cargocollective.com/bioconductiveskin).
-work.in.progress - Technology is getting closer and closer to our skin. This project explores the possibilities of creating biomaterials and proposes alternative applications to our current electronic components. These components should feel part of nature and behave just like us. By exploring the notion of a technological second skin, I aim to design biocompatible devices that mimic the symbiotic relationship we have with other microorganisms that we cannot live without.
+work.in.progress - Technology is getting closer and closer to our skin. This project explores the possibilities of creating biomaterials and proposes alternative applications to our current electronic components. These components should feel part of nature and behave just like us.
 
 2016 [Future Flora](http://cargocollective.com/futureflora).
 MA Graduation Project - Future Flora proposes a Citizen Science alternative to probiotics, empowering women via Biophilia and Speculating the possibility of wearing Lactobacillus to prevent Candida Infection.
