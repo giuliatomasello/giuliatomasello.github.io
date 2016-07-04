@@ -27,7 +27,6 @@ My aim is to design alternative scenarios, acting as a creative thinker.
 I consider materiality as a tool to question and communicate the boundaries 
 between technology and us. 
 Since [RUAH](http://blog.arduino.cc/2013/04/27/an-interactive-corset-teaching-you-how-to-breath/), my BA Graduation Project I started a continuous research on wearable future and smart materials using an open source philosophy and a trans-disciplinary design approach.
-
 These last two years I've been experimenting and growing living organisms.
 
 2015 [Bio Conductive Skin](http://cargocollective.com/bioconductiveskin). work.in.progress - Technology is getting closer and closer to our skin. This project explores the possibilities of creating biomaterials and proposes alternative applications to our current electronic components.
