@@ -30,7 +30,7 @@ Since [RUAH](http://blog.arduino.cc/2013/04/27/an-interactive-corset-teaching-yo
 
 These last two years I've been experimenting and growing living organisms.
 
-2016 [Future Flora](http://celebratingfemalebiophilia.tumblr.com/).
+2016 [Future Flora](http://cargocollective.com/futureflora).
 
 Future Flora proposes a Citizen Science alternative to probiotics, empowering women via Biophilia and Speculating 
 the possibility of wearing Lactobacillus to prevent Candida Infection.
