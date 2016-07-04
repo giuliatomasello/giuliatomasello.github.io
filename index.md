@@ -33,7 +33,7 @@ These last two years I've been experimenting and growing living organisms.
 
 2016 [Future Flora](http://cargocollective.com/futureflora). MA Graduation Project - Future Flora proposes a Citizen Science alternative to probiotics, empowering women via Biophilia and Speculating the possibility of wearing Lactobacillus to prevent Candida Infection.
 
-
+--
 
 
 
