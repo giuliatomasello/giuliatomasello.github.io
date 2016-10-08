@@ -30,10 +30,10 @@ Since [RUAH](http://blog.arduino.cc/2013/04/27/an-interactive-corset-teaching-yo
 These past two years I’ve been investigating on the potential of biotechnology and living materials, especially bacterial cellulose as kombucha, algae, mycelium and mostly bacteria.
 
 
-2016 Future Flora. MA Graduation Project - Future Flora proposes a Citizen Science alternative to probiotics, empowering women via Biophilia and Speculating the possibility of wearing Lactobacillus to prevent Candida Infection.
+2016 [Future Flora]. MA Graduation Project - Future Flora proposes a Citizen Science alternative to probiotics, empowering women via Biophilia and Speculating the possibility of wearing Lactobacillus to prevent Candida Infection.
 Live on [Dezeen](http://www.dezeen.com/2016/07/05/giulia-tomasello-future-flora-home-grown-sanitary-pad-central-saint-martins/#disqus_thread)
 
-2015 Bio Conductive Skin. On going project - Technology is getting closer and closer to our skin. This project explores the possibilities of creating biomaterials and proposes alternative applications to our current electronic components.
+2015 [Bio Conductive Skin]. On going project - Technology is getting closer and closer to our skin. This project explores the possibilities of creating biomaterials and proposes alternative applications to our current electronic components.
 Workshop at [eTextile Summercamp 2016](http://etextile-summercamp.org/2016/bio-textiles/)
 
 
