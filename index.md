@@ -21,7 +21,7 @@ Giulia is a Design Researcher and Interaction Designer based in London, with a b
 
 
 [cv](http://issuu.com/giuliatomasello4/docs/cv_giulia_tomasello)
-<a href:" http://issuu.com/giuliatomasello4/docs/cv_giulia_tomasello">Link</a>
+<a href=" http://issuu.com/giuliatomasello4/docs/cv_giulia_tomasello">Link</a>
 
 
 
