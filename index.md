@@ -29,9 +29,6 @@ EXHIBITION - TALK - WORKSHOP
 
 **2016**
 
-That’s me  
-I am a  
-
 Most contagious, London, UK  
 Operae, Turin, IT
 Talk at [Create Ou Loud](http://www.facebook.com/events/1602425956732689/), Mu gallery, Eindhoven, NL
