@@ -26,13 +26,11 @@ Giulia is a Design Researcher and Interaction Designer based in London, with a b
 
 EXHIBITION - TALK - WORKSHOP
 
-2016
+**2016**
 
-Most contagious, London, UK
-
-Operae, Turin, IT
-
-Talk at [Create Ou Loud](http://www.facebook.com/events/1602425956732689/), Mu gallery, Eindhoven, NL
+Most contagious, London, UK;
+Operae, Turin, IT;
+Talk at [Create Ou Loud](http://www.facebook.com/events/1602425956732689/), Mu gallery, Eindhoven, NL;
 
 Nominated for the [Young Talent Award](http://www.manifestations.nl/index.php/category/young-talent/?lang=en), Dutch Design Week, Eindhoven, NL
 
@@ -49,14 +47,14 @@ Milan Design Week, Milan, IT
 Wip Show, Central Saint Martins, London, UK
 
 
-2015
+**2015**
 
 E-Textiles Summer Camp 2015, Poncé sur le Loir, FR
 
 Makerversity, London, UK
 
 
-2014
+**2014**
 
 Maker Faire Rome, Rome, IT
 
@@ -67,7 +65,7 @@ PopUpMakers, Wemake, Milan, IT
 Io sono makers, Fuori Salone, Milan, IT
 
 
-2013
+**2013**
 
 Smart Textiles Salon vol.3, Ghent, BE
 
