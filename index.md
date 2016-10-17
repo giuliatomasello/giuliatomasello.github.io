@@ -29,7 +29,7 @@ EXHIBITION - TALK - WORKSHOP
 
 **2016**
 
-Most contagious, London, UK <br>
+Most contagious, London, UK  
 Operae, Turin, IT
 Talk at [Create Ou Loud](http://www.facebook.com/events/1602425956732689/), Mu gallery, Eindhoven, NL
 
