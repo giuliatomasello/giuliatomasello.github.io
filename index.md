@@ -16,30 +16,41 @@ a naturally
 given  
 datum.’  
 
-Hi, I am Giulia Tomasello design researcher and interaction designer based in London 
-currently graduated from [Ma Material Futures](http://www.mamaterialfutures.tumblr.com/) in Central Saint Martins.
-Born in Italy I studied my BA in Product Design at NABA, Milan
-and lived for one year in Netherlands 
-studying Social Design at Design Academy of Eindhoven.
-As a designer I am looking to raise awareness, to expose assumptions, 
-to provoke actions and to spark critical debates. 
-My aim is to design alternative scenarios, acting as a creative thinker. 
-I consider materiality as a tool to question and communicate the boundaries 
-between technology and us. 
-Since [RUAH](http://blog.arduino.cc/2013/04/27/an-interactive-corset-teaching-you-how-to-breath/), my BA Graduation Project I started a continuous research on wearable future and smart materials using an open source philosophy and a trans-disciplinary design approach.
-These past two years I’ve been investigating on the potential of biotechnology and living materials, especially bacterial cellulose as kombucha, algae, mycelium and mostly bacteria.
-
-
-2016 [Future Flora]. MA Graduation Project - Future Flora proposes a Citizen Science alternative to probiotics, empowering women via Biophilia and Speculating the possibility of wearing Lactobacillus to prevent Candida Infection.
-Live on [Dezeen](http://www.dezeen.com/2016/07/05/giulia-tomasello-future-flora-home-grown-sanitary-pad-central-saint-martins/#disqus_thread)
-
-2015 [Bio Conductive Skin]. On going project - Technology is getting closer and closer to our skin. This project explores the possibilities of creating biomaterials and proposes alternative applications to our current electronic components.
-Workshop at [eTextile Summercamp 2016](http://etextile-summercamp.org/2016/bio-textiles/)
-
+Giulia is a Design Researcher and Interaction Designer based in London, with a background in product social design and a Master in material innovation.
 
 [cv](http://issuu.com/giuliatomasello4/docs/cv_giulia_tomasello)
 
--
+
+
+EXHIBITION - TALK - WORKSHOP
+
+2016
+Most contagious, London, UK
+Operae, Turin, IT
+Talk at [Create Ou Loud](http://www.facebook.com/events/1602425956732689/), Mu gallery, Eindhoven, NL
+Nominated for the [Young Talent Award](http://www.manifestations.nl/index.php/category/young-talent/?lang=en), Dutch Design Week, Eindhoven, NL
+Talk at [Dare Festival](http://darefest16.sched.org/speaker/giulia_tomasello.1v2dimwn), Antwerp, BE
+Workshop on [Bio-Textiles](http://etextile-summercamp.org/2016/bio-textiles/), E-Textiles Summer Camp 2016, FR
+E-Textiles Summer Camp 2016, Poncé sur le Loir, FR
+Material Futures Degree Show, CSM, London, UK
+Milan Design Week, Milan, IT
+Wip Show, Central Saint Martins, London, UK
+
+2015
+E-Textiles Summer Camp 2015, Poncé sur le Loir, FR
+Makerversity, London, UK
+
+2014
+Maker Faire Rome, Rome, IT
+Smart Textiles, Europen Patent Office, Dan Haag, NL
+PopUpMakers, Wemake, Milan, IT
+Io sono makers, Fuori Salone, Milan, IT
+
+2013
+Smart Textiles Salon vol.3, Ghent, BE
+Hack Reality 2, WhyMCA, Milan, IT
+Open Day, NABA, Milan, IT
+
 
 
 
