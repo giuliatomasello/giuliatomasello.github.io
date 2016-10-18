@@ -47,14 +47,14 @@ Milan Design Week, *Milan, IT*
 Wip Show, Central Saint Martins, *London, UK*
 
 
-<center>**2015**</center>
+**<center>2015</center>**
 
 E-Textiles Summer Camp 2015, *Poncé sur le Loir, FR*
 
 Makerversity, *London, UK*
 
 
-<center>**2014**</center>
+**<center>2014</center>**
 
 Maker Faire Rome, *Rome, IT*
 
@@ -65,7 +65,7 @@ PopUpMakers, *Wemake, Milan, IT*
 Io sono makers, *Fuori Salone, Milan, IT*
 
 
-**2013**
+**<center>2013</center>**
 
 Smart Textiles Salon vol.3, *Ghent, BE*
 
