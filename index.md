@@ -29,6 +29,8 @@ Giulia is a Design Researcher and Interaction Designer based in London, with a b
 
 ###EXHIBITION - TALK - WORKSHOP
 
+<span style="color:red; font-family:Georgia; font-size:2em;">EXHIBITION - TALK - WORKSHOP</span>
+
 **<center>2016</center>**
 
 Most contagious, *London, UK*
