@@ -26,13 +26,13 @@ Giulia is a Design Researcher and Interaction Designer based in London, with a b
 
 **<center>2016</center>**
 
-Most contagious, *London, UK*
-Operae, *Turin, IT*
+Most contagious, *London, UK*  
+Operae, *Turin, IT*  
 Talk at [Create Ou Loud](http://www.facebook.com/events/1602425956732689/), *Mu gallery, Eindhoven, NL*
 
 Nominated for the [Young Talent Award](http://www.manifestations.nl/index.php/category/young-talent/?lang=en), *Dutch Design Week, Eindhoven, NL*
 
-Talk at [Dare Festival](http://darefest16.sched.org/speaker/giulia_tomasello.1v2dimwn),*Antwerp, BE*
+Talk at [Dare Festival](http://darefest16.sched.org/speaker/giulia_tomasello.1v2dimwn), *Antwerp, BE*
 
 Workshop on [Bio-Textiles](http://etextile-summercamp.org/2016/bio-textiles/), *E-Textiles Summer Camp 2016, FR*
 
