@@ -28,9 +28,9 @@ Giulia is a Design Researcher and Interaction Designer based in London, with a b
 
 **<center>2016</center>**
 
-Most contagious, *London, UK*
-Operae, *Turin, IT*
-Talk at [Create Ou Loud](http://www.facebook.com/events/1602425956732689/), *Mu gallery, Eindhoven, NL*
+<center>Most contagious, *London, UK*</center>
+<center>Operae, *Turin, IT*</center>
+<center>Talk at [Create Ou Loud](http://www.facebook.com/events/1602425956732689/), *Mu gallery, Eindhoven, NL*<center>
 
 Nominated for the [Young Talent Award](http://www.manifestations.nl/index.php/category/young-talent/?lang=en), *Dutch Design Week, Eindhoven, NL*
 
