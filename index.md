@@ -23,7 +23,7 @@ Giulia is a Design Researcher and Interaction Designer based in London, with a b
 [cv](http://issuu.com/giuliatomasello4/docs/cv_giulia_tomasello)
 
 
-<center> <span style="color: #000000 ; font-family: ; font-size: 20;"> EXHIBITION - TALK - WORKSHOP2 </span> </center>
+<center> <span style="color: #000000 ; font-family: arial; font-size: 20;"> EXHIBITION - TALK - WORKSHOP2 </span> </center>
 <center> EXHIBITION - TALK - WORKSHOP </center>
 
 **2016**
