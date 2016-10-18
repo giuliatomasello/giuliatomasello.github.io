@@ -23,10 +23,10 @@ Giulia is a Design Researcher and Interaction Designer based in London, with a b
 [cv](http://issuu.com/giuliatomasello4/docs/cv_giulia_tomasello)
 
 
-<center> <span style="color: #000000 ;  font-size: 20;"> EXHIBITION - TALK - WORKSHOP2 </span> </center>
+
 <center> EXHIBITION - TALK - WORKSHOP </center>
 
-**2016**
+<center>**2016**</center>
 
 Most contagious, *London, UK*
 Operae, Turin, IT
@@ -47,14 +47,14 @@ Milan Design Week, *Milan, IT*
 Wip Show, Central Saint Martins, *London, UK*
 
 
-**2015**
+<center>**2015**</center>
 
 E-Textiles Summer Camp 2015, Poncé sur le Loir, FR
 
 Makerversity, London, UK
 
 
-**2014**
+<center>**2014**</center>
 
 Maker Faire Rome, Rome, IT
 
