@@ -17,12 +17,12 @@ given
 datum.’  
 
 
-# Giulia is a Design Researcher and Interaction Designer based in London, with a background in product social design and a Master in material innovation.
+<center>Giulia is a Design Researcher and Interaction Designer based in London, with a background in product social design and a Master in material innovation.</center>
 
 
 [cv](http://issuu.com/giuliatomasello4/docs/cv_giulia_tomasello)
 
-<span style="font-size:1.25em;">EXHIBITION - TALK - WORKSHOP</span>
+<span style="font-size:0.85em;">EXHIBITION/TALK/WORKSHOP</span>
 
 **2016**  
 Most contagious, *London, UK*  
@@ -36,17 +36,17 @@ Material Futures Degree Show, *CSM, London, UK*
 Milan Design Week, *Milan, IT*  
 Wip Show, Central Saint Martins, *London, UK*  
 
-**<center>2015</center>**  
+**2015**  
 E-Textiles Summer Camp 2015, *Poncé sur le Loir, FR*  
 Makerversity, *London, UK*  
 
-**<center>2014</center>**  
+**2014**  
 Maker Faire Rome, *Rome, IT*  
 Smart Textiles, *Europen Patent Office, Dan Haag, NL*  
 PopUpMakers, *Wemake, Milan, IT*  
 Io sono makers, *Fuori Salone, Milan, IT*  
 
-**<center>2013</center>**  
+**2013**  
 Smart Textiles Salon vol.3, *Ghent, BE*  
 Hack Reality 2, *WhyMCA, Milan, IT*  
 Open Day, *NABA, Milan, IT*  
