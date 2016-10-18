@@ -17,7 +17,9 @@ given
 datum.’  
 
 
-Giulia is a Design Researcher and Interaction Designer based in London, with a background in product social design and a Master in material innovation. Download [cv](http://issuu.com/giuliatomasello4/docs/cv_giulia_tomasello)  
+
+Giulia is a Design Researcher and Interaction Designer based in London, with a background in product social design and a Master in material innovation. **[cv](http://issuu.com/giuliatomasello4/docs/cv_giulia_tomasello)**  
+
 
 
 **<span style="font-size:0.85em;">EXHIBITION/TALK/WORKSHOP</span>**
