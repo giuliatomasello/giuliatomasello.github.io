@@ -24,7 +24,8 @@ Giulia is a Design Researcher and Interaction Designer based in London, with a b
 
 
 
-#<center> EXHIBITION - TALK - WORKSHOP </center>
+
+<center> #EXHIBITION - TALK - WORKSHOP </center>
 
 **<center>2016</center>**
 
